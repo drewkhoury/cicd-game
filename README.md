@@ -50,3 +50,7 @@ Great job on setting up your pipeline!
 
 ## Conclusion
 Enjoy setting up your pipeline, learn about different tools and practices, and most importantly, have fun!
+
+---
+
+Created with the help of ChatGPT: https://chat.openai.com/share/7908b59d-48fc-4eae-96e8-335720c25f0f
