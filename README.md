@@ -13,6 +13,8 @@ Welcome to the CI/CD Pipeline Game! In this game, you get to simulate setting up
 4. **PowerUps**: During the game, you will have the opportunity to select various development methodologies which act as PowerUps. Choosing these wisely will yield benefits.
 5. **End of Game**: At the end of the game, you'll see a summary of your choices, your remaining budget, and feedback on your decisions.
 
+![./start.png](./start.png)
+
 ## Special Features
 - If you select **Pair Programming** during the game, something special will happen.
 
@@ -47,6 +49,8 @@ PowerUps: Feature Flags
 
 Great job on setting up your pipeline!
 ```
+
+![./questions.png](./questions.png)
 
 ## Conclusion
 Enjoy setting up your pipeline, learn about different tools and practices, and most importantly, have fun!
